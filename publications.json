@@ -1,0 +1,382 @@
+[
+  {
+    "id": 1,
+    "title": "Phy-HHMR: Physics-Aware Holistic Human Mesh Reconstruction",
+    "authors": "Junjie Cai, Binhong Ye, Lei Wang*, Baoyu Liu, Xiaoliang Ma, Jun Cheng",
+    "venue": "IEEE Transactions on Human-Machine Systems, 2026, DOI: 10.1109/THMS.2026.3701774",
+    "year": 2026,
+    "type": "Journal",
+    "doi": "10.1109/THMS.2026.3701774",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 2,
+    "title": "Compensating Quantization Errors via Singular-value Diagonal Expansion and Cross-layer Learning",
+    "authors": "Yifei Gao, Jie Ou, Lei Wang*, Jun Cheng, Mengchu Zhou",
+    "venue": "IEEE Transactions on Emerging Topics in Computational Intelligence, doi: 10.1109/TETCI.2026.3714311",
+    "year": 2026,
+    "type": "Journal",
+    "doi": "10.1109/TETCI.2026.3714311",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 3,
+    "title": "Speech2Blend: A Hybrid Network for Speech-Driven 3D Facial Animation by Learning Blendshape",
+    "authors": "Lei Wang, Gongbin Chen, Feng Liu, Jiaji Wu, Jun Cheng",
+    "venue": "IEEE Transactions on Human-Machine Systems, vol. 56, no. 1, pp. 48-57, Feb. 2026, DOI: 10.1109/THMS.2025.3640719",
+    "year": 2026,
+    "type": "Journal",
+    "doi": "10.1109/THMS.2025.3640719",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 4,
+    "title": "Open environments-aware SLAM based on YOLO-enhanced open-vocabulary object detection",
+    "authors": "C. Song, F. Wu, X. Gao, J. Cheng, M. Yang, Q. Liu, Lei Wang*",
+    "venue": "Sci. China Technol. Sci. 68, 2120401 (2025)",
+    "year": 2025,
+    "type": "Journal",
+    "doi": "",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 5,
+    "title": "A Twist Representation and Shape Refinement Method for Human Mesh Recovery",
+    "authors": "Xiaoyang Hao, Han Li, Jing Sun*, Lei Wang* and Jianping Fan",
+    "venue": "IEEE Transactions on Multimedia, vol. 27, pp. 1821-1834, 2025, doi: 10.1109/TMM.2024.3521780",
+    "year": 2025,
+    "type": "Journal",
+    "doi": "10.1109/TMM.2024.3521780",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 6,
+    "title": "A survey of graph neural networks and their industrial applications",
+    "authors": "Haoran Lu, Lei Wang*, Xiaoliang Ma, Jun Cheng, Mengchu Zhou",
+    "venue": "Neurocomputing, Volume 614, 2025, 128761",
+    "year": 2025,
+    "type": "Journal",
+    "doi": "",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 7,
+    "title": "High-sensitivity, ultrawide linear range, antibacterial textile pressure sensor based on chitosan/MXene hierarchical architecture",
+    "authors": "Mengxi Gu, Xuan Zhou, Jienan Shen, Ruibin Xie, Yuhan Su, Junxue Gao, Binzhe Zhao, Jie Li, Yingjie Duan, Zhixun Wang, Yougen Hu, Guoqiang Gu*, Lei Wang*, Lei Wei*, Chunlei Yang*, Ming Chen*",
+    "venue": "iScience, Volume 27, Issue 4, 19 April 2024, 109481",
+    "year": 2024,
+    "type": "Journal",
+    "doi": "",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 8,
+    "title": "Multi-layered Minutiae Extraction based on Fusion-Attention for OCT Fingerprints",
+    "authors": "F. Liu, W. Zeng, W. Zhang, Lei Wang*, J. Cheng and Z. Lai",
+    "venue": "in IEEE Transactions on Biometrics, Behavior, and Identity Science, vol. 5, no. 2, pp. 221-232, April 2023",
+    "year": 2023,
+    "type": "Journal",
+    "doi": "",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 9,
+    "title": "A Progressive Quadric Graph Convolutional Network for 3D Human Mesh Recovery",
+    "authors": "Lei Wang, Xunyu Liu, Xiaoliang Ma, Jiaji Wu, Jun Cheng and Mengchu Zhou",
+    "venue": "IEEE Transactions on Circuits and Systems for Video Technology, vol. 33, no. 1, pp. 104-117, Jan. 2023",
+    "year": 2023,
+    "type": "Journal",
+    "doi": "",
+    "role": "First author"
+  },
+  {
+    "id": 10,
+    "title": "Crack-Across-Pore Enabled High-Performance Flexible Pressure Sensors for Deep Neural Network Enhanced Sensing and Human Action Recognition",
+    "authors": "Yuxin Hou#, Lei Wang#, Ran Sun, Yuanao Zhang, Mengxi Gu, Yuanhao Zhu, Yubo Tong, Xunyu Liu, Zhixun Wang, Juan Xia, Yougen Hu, Lei Wei, Chunlei Yang*, and Ming Chen*",
+    "venue": "ACS Nano, 16, 5, 8358–8369, April 29, 2022",
+    "year": 2022,
+    "type": "Journal",
+    "doi": "",
+    "role": "Co-first author"
+  },
+  {
+    "id": 11,
+    "title": "Hierarchical Network Enabled Flexible Textile Pressure Sensor with Ultrabroad Response Range and High-Temperature Resistance",
+    "authors": "Meiling Jia#, Chenghan Yi#, Yankun Han#, Lei Wang#, Xin Li, Guoliang Xu, Ke He, Nianci Li, Yuxin Hou, Zhongguo Wang, Yuanhao Zhu, Yuanao Zhang, Mingzhu Hu, Ran Sun, Peifei Tong, Jiawei Yang, Yougen Hu, Zhixun Wang, Weimin Li, Wenjie Li, Lei Wei, Chunlei Yang, Ming Chen",
+    "venue": "Advanced Science, 2022, 9, 2105738",
+    "year": 2022,
+    "type": "Journal",
+    "doi": "",
+    "role": "Co-first author"
+  },
+  {
+    "id": 12,
+    "title": "Spatially adaptive multi-scale image enhancement based on nonsubsampled contourlet transform",
+    "authors": "Zhenghua Huang, Xuan Li, Lei Wang*, Hao Fang, Lei Ma, Yu Shi, Hanyu Hong",
+    "venue": "Infrared Physics & Technology, Volume 121,2022, 104014",
+    "year": 2022,
+    "type": "Journal",
+    "doi": "",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 13,
+    "title": "Visual Relationship Detection: A Survey",
+    "authors": "Jun Cheng, Lei Wang*, Jiaji Wu, Xiping Hu, Gwanggil Jeon, Dacheng Tao, and Mengchu Zhou",
+    "venue": "IEEE Transactions on Cybernetics, vol. 52, no. 8, pp. 8453-8466, Aug. 2022",
+    "year": 2022,
+    "type": "Journal",
+    "doi": "",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 14,
+    "title": "Semantic Segmentation of Large-Scale Point Clouds based on Dilated Nearest-Neighbors Encoding",
+    "authors": "Lei Wang, Jiaji Wu, Xunyu Liu, Xiaoliang Ma, Jun Cheng",
+    "venue": "Complex & Intelligent Systems, vol.8, pp. 3833-3845, 2022",
+    "year": 2022,
+    "type": "Journal",
+    "doi": "",
+    "role": "First author"
+  },
+  {
+    "id": 15,
+    "title": "Visual Relationship Detection with Recurrent Attention and Negative Sampling",
+    "authors": "Lei Wang, Peizhen Lin, Jun Cheng, Feng Liu, Xiaoliang Ma, Jianqin Yin",
+    "venue": "Neurocomputing, Vol. 434, pp. 55-66, April 28, 2021",
+    "year": 2021,
+    "type": "Journal",
+    "doi": "",
+    "role": "First author"
+  },
+  {
+    "id": 16,
+    "title": "3D Object Detection based on Sparse Convolution Neural Network and Feature Fusion for Autonomous Driving in Smart Cities",
+    "authors": "Lei Wang, Xiaoyuan Fan, Jiahao Chen, Jun Cheng*, Jun Tan, Xiaoliang Ma",
+    "venue": "Sustainable Cities and Society, vol.54, pp. 102002-1-10, March 2020",
+    "year": 2020,
+    "type": "Journal",
+    "doi": "",
+    "role": "First author"
+  },
+  {
+    "id": 17,
+    "title": "Single-Image De-Raining With Feature-Supervised Generative Adversarial Network",
+    "authors": "Peng Xiang, Lei Wang*, Fuxiang Wu, Jun Cheng, and Mengchu Zhou",
+    "venue": "IEEE Signal Processing Letters, vol. 26, no. 5, pp. 650-654, May 2019",
+    "year": 2019,
+    "type": "Journal",
+    "doi": "",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 18,
+    "title": "Ensemble One-Dimensional Convolution Neural Networks for Skeleton-based Action Recognition",
+    "authors": "Yangyang Xu, Jun Cheng, Lei Wang*, Haiying Xia, Feng Liu, and Dapeng Tao",
+    "venue": "IEEE Signal Processing Letters, vol. 25, no. 7, pp. 1044-1048, July 2018",
+    "year": 2018,
+    "type": "Journal",
+    "doi": "",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 19,
+    "title": "Human Action Recognition by Learning Spatio-Temporal Features With Deep Neural Networks",
+    "authors": "Lei Wang, Yangyang Xu, Jun Cheng, Haiying Xia, Jianqin Yin, and Jiaji Wu",
+    "venue": "IEEE Access, vol. 6, pp. 17913-17922, March 2018",
+    "year": 2018,
+    "type": "Journal",
+    "doi": "",
+    "role": "First author"
+  },
+  {
+    "id": 20,
+    "title": "Hyperspectral Image Compression based on Lapped Transform and Tucker Decomposition",
+    "authors": "Lei Wang, Jing Bai, Jiaji Wu, and Gwanggil Jeon",
+    "venue": "Signal Processing-Image Communication, vol.36, pp. 63-69, Aug. 2015",
+    "year": 2015,
+    "type": "Journal",
+    "doi": "",
+    "role": "First author"
+  },
+  {
+    "id": 21,
+    "title": "Bayer Pattern CFA Demosaicking based on Multi-Directional Weighted Interpolation and Guided Filter",
+    "authors": "Lei Wang, and Gwanggil Jeon",
+    "venue": "IEEE Signal Processing Letters, vol. 22, no. 11, pp. 2083-2087, Nov. 2015",
+    "year": 2015,
+    "type": "Journal",
+    "doi": "",
+    "role": "First author"
+  },
+  {
+    "id": 22,
+    "title": "Quadtree-based reversible integer time-domain lapped transform for progressive lossy-to-lossless images compression",
+    "authors": "Lei Wang, Tao Sun, and Gwanggil Jeon",
+    "venue": "Optical Engineering, vol. 53, no. 7, 073103, July 2014",
+    "year": 2014,
+    "type": "Journal",
+    "doi": "",
+    "role": ""
+  },
+  {
+    "id": 23,
+    "title": "Shape-Adaptive Reversible Integer Lapped Transform for Lossy-to-lossless ROI Coding of Remote Sensing Images",
+    "authors": "Licheng Jiao, Lei Wang, Jiaji Wu, Jing Bai, Shuang Wang, and Biao Hou",
+    "venue": "IEEE Geoscience and Remote Sensing Letters, vol.8, no.2, pp. 326-330, Mar. 2011",
+    "year": 2011,
+    "type": "Journal",
+    "doi": "",
+    "role": "First author"
+  },
+  {
+    "id": 24,
+    "title": "Hyperspectral Image Compression Based on 3D Reversible Integer Lapped Transform",
+    "authors": "Lei Wang, Licheng Jiao, Jing Bai, Jiaji Wu",
+    "venue": "IET Electronics Letters, vol.46, no.24, pp.1601-1602, Nov. 2010",
+    "year": 2010,
+    "type": "Journal",
+    "doi": "",
+    "role": "First author"
+  },
+  {
+    "id": 25,
+    "title": "Lossy-to-lossless Image Compression Based on Multiplierless Reversible Integer Time Domain Lapped Transform",
+    "authors": "Lei Wang, Licheng Jiao, Jiaji Wu, Guangming Shi, and Yanjun Gong",
+    "venue": "Signal Processing-Image Communication, vol.25, pp.622-632, Sep. 2010",
+    "year": 2010,
+    "type": "Journal",
+    "doi": "",
+    "role": "First author"
+  },
+  {
+    "id": 26,
+    "title": "Three Dimensional Medical Image Compression based on Low-complexity RKLT",
+    "authors": "Lei Wang, Jiaji Wu, Licheng Jiao, and Shuang Zhang",
+    "venue": "IET Electronics Letters, vol.46, no.6, pp.395-397, Mar 2010",
+    "year": 2010,
+    "type": "Journal",
+    "doi": "",
+    "role": "First author"
+  },
+  {
+    "id": 27,
+    "title": "Lossy-to-lossless Hyperspectral Image Compression Based on Multiplierless Reversible Integer TDLT/KLT",
+    "authors": "Lei Wang, Jiaji Wu, Licheng Jiao, and Guangming Shi",
+    "venue": "IEEE Geoscience and Remote Sensing Letters, vol.6, no.3, pp.587-591, July 2009",
+    "year": 2009,
+    "type": "Journal",
+    "doi": "",
+    "role": "First author"
+  },
+  {
+    "id": 28,
+    "title": "Automatic numbering and pathological recognition of pediatric teeth using CNN and attention mechanisms",
+    "authors": "Hongzhou Zhu, Yuhao Qiu, Renjie HU, Ang Li, Shengji Zhu* and Lei Wang*",
+    "venue": "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5, doi: 10.1109/ICASSP49660.2025.10890630",
+    "year": 2025,
+    "type": "Conference",
+    "doi": "10.1109/ICASSP49660.2025.10890630",
+    "role": ""
+  },
+  {
+    "id": 29,
+    "title": "Bidirectional mixed augmentation sample generation under dual perturbations in Semi-Supervised Medical Image Segmentation",
+    "authors": "Yibo Feng, Feng Liu, Zhiyi Shan, Lei Wang*, Jun Cheng",
+    "venue": "The 8th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2025, Shanghai, Part XIV, Oct. 15-18, 2025, pp. 176-190",
+    "year": 2025,
+    "type": "Conference",
+    "doi": "",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 30,
+    "title": "Semi-Supervised Cephalometric Landmark Detection using Landmark Contrastive Learning",
+    "authors": "Zixun Zhan, Xiaoliang Ma, Zhiyi Shan, Shengji Zhu*, Lei Wang*",
+    "venue": "The 8th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2025, Shanghai, Part XIII, Oct. 15-18, 2025, pp.224-237",
+    "year": 2025,
+    "type": "Conference",
+    "doi": "",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 31,
+    "title": "Realistic and Visually-pleasing 3D Generation of Indoor Scenes from a Single Image",
+    "authors": "JIE LI, Lei Wang*, Gong-Bin Chen, Ang Li, Yuhao Qiu, Jiaji Wu, Jun Cheng",
+    "venue": "The 7th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2024, vol 15036, pp 138–152",
+    "year": 2024,
+    "type": "Conference",
+    "doi": "",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 32,
+    "title": "Dental Diagnosis from X-Ray Panoramic Radiography Images: A Dataset and A Hybrid Framework",
+    "authors": "Gege Shan, Xiaoliang Ma, Xiaojie Bai, Hongzhou Zhu, Ting Wang, Shengji Zhu*, Lei Wang*",
+    "venue": "The 7th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2024, vol 15044, pp 234–248",
+    "year": 2024,
+    "type": "Conference",
+    "doi": "",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 33,
+    "title": "Compensate Quantization Errors: Make Weights Hierarchical to Compensate Each Other",
+    "authors": "Yifei Gao, Jie Ou, Lei Wang*, Yuting Xiao, Zhiyuan Xiang, Ruiting Dai, Jun Cheng",
+    "venue": "2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), Mexico City, Mexico, June, 2024, pp. 2711–2722",
+    "year": 2024,
+    "type": "Conference",
+    "doi": "",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 34,
+    "title": "Mixed Transformer for Temporal 3D Human Pose and Shape Estimation from Monocular Video",
+    "authors": "Cheng He, Xiaoliang Ma, Lei Wang*, Gongbin Chen, Longhua Hu, Jun Cheng",
+    "venue": "the 7th Asian Conference on Artificial Intelligence Technology (ACAIT 2023), Quzhou, China, Nov. 10, pp. 802-810, 2023",
+    "year": 2023,
+    "type": "Conference",
+    "doi": "",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 35,
+    "title": "Blendshape-based Migratable Speech-driven 3D Facial Animation with Overlapping Chunking-Transformer",
+    "authors": "Jixi Chen, Xiaoliang Ma, Lei Wang*, and Jun Cheng",
+    "venue": "The 6th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2023, vol 14426, pp. 41-53",
+    "year": 2023,
+    "type": "Conference",
+    "doi": "",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 36,
+    "title": "Autoencoder and Masked Image Encoding-based Attentional Pose Network",
+    "authors": "Longhua Hu, Xiaoliang Ma, Cheng He, Lei Wang*, and Jun Cheng",
+    "venue": "The 6th Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2023, vol 14426,  pp. 221-233",
+    "year": 2023,
+    "type": "Conference",
+    "doi": "",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 37,
+    "title": "Character animation and retargeting from video streams",
+    "authors": "Gongbin Chen, Lei Wang*, Xun-Yu Liu, Long-Hua Hu, Jun Cheng",
+    "venue": "IEEE International Conference on Systems, Man, and Cybernetics, (SMC), 2022, pp. 3267-3272, doi: 10.1109/SMC53654.2022.9945115.  ISSN: 2163-9590",
+    "year": 2022,
+    "type": "Conference",
+    "doi": "10.1109/SMC53654.2022.9945115",
+    "role": "Corresponding author"
+  },
+  {
+    "id": 38,
+    "title": "Dilated Nearest-Neighbor Encoding for 3D Semantic Segmentation of Point Clouds",
+    "authors": "Xiaoyuan Fan, Lei Wang*, Shan Jiang, Senwei Ma, Jun Cheng",
+    "venue": "2021 IEEE International Conference on Real-time Computing and Robotics (RCAR), 2021, pp. 839-844, doi: 10.1109/RCAR52367.2021.9517340",
+    "year": 2021,
+    "type": "Conference",
+    "doi": "10.1109/RCAR52367.2021.9517340",
+    "role": "Corresponding author"
+  }
+]
